@@ -209,8 +209,8 @@ Report authors: A. Aziz, A. E. Güngör, A. Hodžić, and V. Van Scyoc Hernandez
 Supervisor: Chrisle Joseph Charls. The presentation uses “M. A. Aziz”; the
 preferred citation spelling requires author confirmation.
 
-**Portfolio owner:** Md Atiq Aziz. **Personal contribution:** [confirm which
-modeling, programming, control, analysis, and writing tasks were yours].
+**Portfolio owner:** Md Atiq Aziz. **Personal contribution:** 
+Simscape modeling, PI control strategy , Output analysis, and writing Report.
 The repository preparation adds documentation, Python transcriptions, wrappers,
 and checks; it does not imply sole authorship of the original team study.
 
