@@ -1,0 +1,14 @@
+{
+  "input": "data/raw/class3data.csv",
+  "original_workbook": "WLTP-DHC-12-07e.xls",
+  "sheet": "WLTC_class_3",
+  "speed_column": "E",
+  "excel_data_rows": [8, 1808],
+  "speed_sample_count": 1801,
+  "exact_numeric_equality": true,
+  "maximum_speed_difference_kmh": 0.0,
+  "workbook_trace_label": "WLTC class 3, version 5",
+  "workbook_context": "Preliminary vehicle classification; validation 2",
+  "current_homologation_equivalence_verified": false,
+  "external_download_url_verified": false
+}

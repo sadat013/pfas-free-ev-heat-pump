@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Please cite the original team report. Individual contributions and the Aziz name variant require author confirmation; no DOI or public repository URL was supplied."
+title: "PFAS-Free Heat Pumps for Electric Vehicles: DENSYS Case Study"
+type: software
+license: MIT
+authors:
+  - family-names: Aziz
+    given-names: A.
+  - family-names: Güngör
+    given-names: A. E.
+  - family-names: Hodžić
+    given-names: A.
+  - family-names: Van Scyoc Hernandez
+    given-names: V.
+preferred-citation:
+  type: report
+  title: "Modeling PFAS-Free Refrigerants in Heat Pumps for EV Applications"
+  authors:
+    - family-names: Aziz
+      given-names: A.
+    - family-names: Güngör
+      given-names: A. E.
+    - family-names: Hodžić
+      given-names: A.
+    - family-names: Van Scyoc Hernandez
+      given-names: V.
+  date-released: 2026-02-05
+  institution:
+    name: Université de Lorraine

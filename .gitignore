@@ -1,0 +1,56 @@
+# Local academic sources and model snapshots await publication review.
+/_private/
+/models/*/
+/figures/report/
+/data/raw/*.mat
+/data/raw/*.xls
+/data/raw/*.xlsx
+
+# Generated results; curated verification evidence belongs in docs/verification/.
+/results/*
+!/results/README.md
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.autosave.zip
+*.mldatx
+*.mex*
+*.tmw
+*_ert_rtw/
+*_grt_rtw/
+codegen/
+.SimulinkProject/
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+
+# IDE, operating system, temporary and confidential files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.bak
+*.log
+.env
+.env.*
+!.env.example
+credentials*
+secrets*
+*.pem
+*.key
+*.pfx
+*.zip

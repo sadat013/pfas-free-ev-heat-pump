@@ -1,0 +1,30 @@
+{
+  "source": "Final report Appendices A-C, transcription",
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "matplotlib": "3.11.2",
+    "CoolProp": "8.0.0",
+    "scikit-learn": "1.9.1"
+  },
+  "cycle_samples": 1801,
+  "elapsed_time_s": 1800,
+  "mean_speed_kmh": 46.49894503053859,
+  "peak_speed_kmh": 131.3,
+  "mean_traction_power_w": 5610.33496494955,
+  "hvac_off_range_km": 255.04548873301525,
+  "range_coefficients_source": "Appendix C, not automatically linked to Appendix B fit",
+  "simscape_executed": false,
+  "property_fit": {
+    "Propane": {
+      "slope_per_c": 0.049279782713962446,
+      "intercept": 2.9877982452538765
+    },
+    "R1234yf": {
+      "slope_per_c": 0.06353529695628676,
+      "intercept": 2.7782017844924076
+    }
+  },
+  "property_fallbacks": []
+}

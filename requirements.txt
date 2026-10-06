@@ -1,0 +1,7 @@
+# Executed reconstruction environment: Python 3.12.14, Windows.
+# Original academic environment versions were not supplied.
+numpy==2.5.3
+pandas==3.0.6
+matplotlib==3.11.2
+CoolProp==8.0.0
+scikit-learn==1.9.1
