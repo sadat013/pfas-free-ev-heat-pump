@@ -35,9 +35,8 @@ separate from transient heat-pump simulations.
 
 Portfolio owner: **Md Atiq Aziz**. The report/presentation author spelling differs;
 confirm the preferred formal citation spelling before changing report attribution.
-Role: **[confirm personal tasks in refrigerant selection, Python modeling,
-Simscape plant development, controller design, analysis and report writing]**.
-Team responsibilities: **[confirm allocation]**.
+Role: refrigerant selection,
+Simscape Model development, controller design, analysis and report writing.
 
 Do not present the full team model or the repository curation as solely your
 original work. Replace the placeholders before using first-person wording.
@@ -84,11 +83,11 @@ and source attribution. Select only the skills supported by your own contributio
 
 ## Learning reflection — adapt to your experience
 
-“[Confirm before using:] I learned to distinguish idealized cycle efficiency
+“I learned to distinguish idealized cycle efficiency of a heatup
 from heat delivered by a controlled system, and to trace performance claims
-back to equations, inputs and operating conditions. I also learned why a
+back to theoretical calculations, inputs and operating conditions. I also learned why a
 thermodynamic comparison alone cannot establish refrigerant safety or a
-vehicle's real-world range.”
+vehicle's real-world range without real world testing and detailed CFD.”
 
 ## Suggested visuals
 
@@ -115,15 +114,13 @@ heating performance and documenting model assumptions and reproducibility limits
 
 ## LinkedIn project description
 
-DENSYS master's team project investigating R290 as a non-fluorinated refrigerant
+DENSYS master's case based module investigating R290 as a non-fluorinated refrigerant
 candidate for winter EV thermal management. Combined thermodynamic property
 analysis, a WLTC-based Python range estimate and Simscape cabin/battery heating
-models. My contribution: **[confirm specific responsibilities]**. The repository
-documents inputs, assumptions, execution instructions and verification limits;
+models. The repository documents inputs, assumptions, execution instructions and verification limits;
 modeled range estimates are distinguished from experimentally validated results.
 
 ## Public contact placeholders
 
 Name: Md Atiq Aziz · GitHub: [sadat013](https://github.com/sadat013) · Portfolio: [add URL] ·
-Contact: via GitHub profile. Avoid using other team members' or the
-supervisor's email addresses as your project contact.
+Contact: via GitHub profile or linkedIn. 
