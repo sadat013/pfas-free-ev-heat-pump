@@ -209,7 +209,7 @@ Report authors: A. Aziz, A. E. Güngör, A. Hodžić, and V. Van Scyoc Hernandez
 Supervisor: Chrisle Joseph Charls. The presentation uses “M. A. Aziz”; the
 preferred citation spelling requires author confirmation.
 
-**Portfolio owner:** [confirm name]. **Personal contribution:** [confirm which
+**Portfolio owner:** Md Atiq Aziz. **Personal contribution:** [confirm which
 modeling, programming, control, analysis, and writing tasks were yours].
 The repository preparation adds documentation, Python transcriptions, wrappers,
 and checks; it does not imply sole authorship of the original team study.
@@ -227,11 +227,11 @@ under the [MIT License](LICENSE), as selected by the project owner. This does
 not relicense third-party code, adapted MathWorks models, externally sourced
 datasets, or the original academic reports and figures. Their existing terms
 and publication permissions remain separate; see [scope and exclusions](THIRD_PARTY_NOTICES.md).
-Reports and raw models remain held locally pending review.
-No remote repository has been created and nothing has been published.
+Reports and raw models remain held locally pending review. The curated project
+is published at [sadat013/pfas-free-ev-heat-pump](https://github.com/sadat013/pfas-free-ev-heat-pump).
 
 ## Portfolio and contact
 
 [Portfolio project summary, CV bullet, and LinkedIn description](docs/portfolio.md)
 
-Name: [confirm] · GitHub: [add profile] · Portfolio: [add URL] · Contact: [add preferred public contact]
+Name: Md Atiq Aziz · GitHub: [sadat013](https://github.com/sadat013) · Portfolio: [add URL] · Contact: via GitHub profile

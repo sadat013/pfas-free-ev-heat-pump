@@ -80,5 +80,5 @@ headers identify R2025a Update 1. Installed toolbox availability is unverified.
    been selected for original project code; it does not relicense the adapted
    models or third-party inputs. Retain upstream notices.
 
-No upload, remote, commit or model modification has been
-performed. Organization is complete; publishing remains the owner's decision.
+The curated repository has been uploaded. The excluded model snapshots remain
+local pending redistribution review; no model modification has been performed.

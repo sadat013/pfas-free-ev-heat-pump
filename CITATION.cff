@@ -3,6 +3,7 @@ message: "Please cite the original team report. Individual contributions and the
 title: "PFAS-Free Heat Pumps for Electric Vehicles: DENSYS Case Study"
 type: software
 license: MIT
+repository-code: "https://github.com/sadat013/pfas-free-ev-heat-pump"
 authors:
   - family-names: Aziz
     given-names: A.

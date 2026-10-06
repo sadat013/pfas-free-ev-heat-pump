@@ -1,5 +1,14 @@
 # Change log
 
+## 6 October 2026 — public GitHub publication
+
+- Created `https://github.com/sadat013/pfas-free-ev-heat-pump` as a public repository.
+- Pushed the curated `main` branch and recorded the repository URL in citation metadata.
+- Replaced the portfolio-owner and GitHub-profile placeholders with Md Atiq Aziz
+  and `sadat013`; individual team contribution details remain for owner confirmation.
+- Private reports, source-report figures, saved results and model snapshots under
+  redistribution review remain excluded by `.gitignore`.
+
 ## 6 October 2026 — MIT license selected by owner
 
 - Created `LICENSE` with the standard MIT text and a collective project-contributor

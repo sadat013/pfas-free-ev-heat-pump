@@ -33,7 +33,8 @@ separate from transient heat-pump simulations.
 
 ## Personal technical contribution — confirm before use
 
-Portfolio owner: **[confirm name; report/presentation author spelling differs]**.
+Portfolio owner: **Md Atiq Aziz**. The report/presentation author spelling differs;
+confirm the preferred formal citation spelling before changing report attribution.
 Role: **[confirm personal tasks in refrigerant selection, Python modeling,
 Simscape plant development, controller design, analysis and report writing]**.
 Team responsibilities: **[confirm allocation]**.
@@ -123,6 +124,6 @@ modeled range estimates are distinguished from experimentally validated results.
 
 ## Public contact placeholders
 
-Name: [confirm] · GitHub: [add profile] · Portfolio: [add URL] ·
-Contact: [add preferred public contact]. Avoid using other team members' or the
+Name: Md Atiq Aziz · GitHub: [sadat013](https://github.com/sadat013) · Portfolio: [add URL] ·
+Contact: via GitHub profile. Avoid using other team members' or the
 supervisor's email addresses as your project contact.
